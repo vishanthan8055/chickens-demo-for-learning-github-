@@ -1,3 +1,5 @@
 Vishanthan chickens
 
 i love chickens
+Please skip these repos 
+These are for learning and testing purposes
